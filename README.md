@@ -2,4 +2,4 @@
 Build a basic arithmetic calculator using javascript
 
 
-https://thobiy.github.io/intro_js/
+https://thobiy.github.io/js_calculator/
